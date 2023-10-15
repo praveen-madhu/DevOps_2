@@ -26,4 +26,4 @@ def home(request):
         'articles' : articles
     }
 
-    return render(request, 'app/templates/home.html', context)
+    return render(request, 'home.html', context)
