@@ -1,0 +1,2 @@
+devops filter=lfs diff=lfs merge=lfs -text
+devops[[:space:]]and[[:space:]]project filter=lfs diff=lfs merge=lfs -text
